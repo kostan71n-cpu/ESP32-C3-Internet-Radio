@@ -1304,11 +1304,11 @@ Your support is very important and helps me continue working on open-source proj
 **⭐ Star this repository** if you find it useful!
 
 **🔗 Check out my other projects:**
-- [ESP32-T-Display-TOTP](https://github.com/Unix-like-SoN/ESP32-T-Display-TOTP) - TOTP Authenticator on ESP32
+- [ESP32-T-Display-TOTP](https://github.com/makepkg/SecureGen) - TOTP Authenticator on ESP32
 
 ---
 
 **Version:** v4.5 (Stable Architecture)  
 **Last Update:** 2025-10-15  
 **License:** MIT  
-**Author:** [Unix-like-SoN](https://github.com/Unix-like-SoN)
+**Author:** [makepkg](https://github.com/makepkg)
